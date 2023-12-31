@@ -1,0 +1,426 @@
+/* Extra small devices (phones, 600px and down)
+@media only screen and (max-width: 600px) {
+  .navbar{
+        width: 100%;
+    }
+  .container{
+        width: 100%;
+    }
+  .navbar1{
+        width: 100%;
+    }
+  .home{
+        width: 100%;
+    }
+  .content1{
+        width: 100%;
+    }
+  .content-img{
+        width: 100%;
+    }
+  .section2{
+        width: 100%;
+    }
+  .con{
+        width: 100%;
+    }
+  .imgs{
+        width: 100%;
+    }
+  .imgs1{
+        width: 100%;
+    }
+  .section3{
+        width: 100%;
+    }
+  .gallery{
+        width: 100%;
+    }
+  .section4{
+        width: 100%;
+    }
+  .content4{
+        width: 100%;
+    }
+  .iframe{
+        width: 100%;
+    }
+  .boxs{
+        width: 100%;
+    }
+  .box1{
+        width: 100%;
+    }
+  .inputs{
+        width: 100%;
+    }
+  form{
+        width: 100%;
+    }
+  .footer{
+        width: 100%;
+    }
+  .social{
+        width: 100%;
+    }
+  .soc1{
+        width: 100%;
+    }
+  .social1{
+        width: 100%;
+    }
+  .soc2{
+        width: 100%;
+    }
+  .forme2{
+        width: 100%;
+    }
+    .links1{
+        width: 100%;
+    }
+  .soc3{
+        width: 100%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {
+    .navbar{
+        width: 75%;
+    }
+  .container{
+        width: 75%;
+    }
+  .navbar1{
+        width: 75%;
+    }
+  .home{
+        width: 75%;
+    }
+  .content1{
+        width: 75%;
+    }
+  .content-img{
+        width: 75%;
+    }
+  .section2{
+        width: 75%;
+    }
+  .con{
+        width: 75%;
+    }
+  .imgs{
+        width: 75%;
+    }
+  .imgs1{
+        width: 75%;
+    }
+  .section3{
+        width: 75%;
+    }
+  .gallery{
+        width: 75%;
+    }
+  .section4{
+        width: 75%;
+    }
+  .content4{
+        width: 75%;
+    }
+  .iframe{
+        width: 75%;
+    }
+  .boxs{
+        width: 75%;
+    }
+  .box1{
+        width: 75%;
+    }
+  .inputs{
+        width: 75%;
+    }
+  form{
+        width: 75%;
+    }
+  .footer{
+        width: 75%;
+    }
+  .social{
+        width: 75%;
+    }
+  .soc1{
+        width: 75%;
+    }
+  .social1{
+        width: 75%;
+    }
+  .soc2{
+        width: 75%;
+    }
+  .forme2{
+        width: 75%;
+    }
+    .links1{
+        width: 75%;
+    }
+  .soc3{
+        width: 75%;
+    }
+
+} */
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {
+    .navbar{
+        width: 75%;
+    }
+  .container{
+        width: 75%;
+    }
+  .navbar1{
+        width: 75%;
+    }
+  .home{
+        width: 75%;
+    }
+  .content1{
+        width: 75%;
+    }
+  .content-img{
+        width: 75%;
+    }
+  .section2{
+        width: 75%;
+    }
+  .con{
+        width: 75%;
+    }
+  .imgs{
+        width: 75%;
+    }
+  .imgs1{
+        width: 75%;
+    }
+  .section3{
+        width: 75%;
+    }
+  .gallery{
+        width: 75%;
+    }
+  .section4{
+        width: 75%;
+    }
+  .content4{
+        width: 75%;
+    }
+  .iframe{
+        width: 75%;
+    }
+  .boxs{
+        width: 75%;
+    }
+  .box1{
+        width: 75%;
+    }
+  .inputs{
+        width: 75%;
+    }
+  form{
+        width: 75%;
+    }
+  .footer{
+        width: 75%;
+    }
+  .social{
+        width: 75%;
+    }
+  .soc1{
+        width: 75%;
+    }
+  .social1{
+        width: 75%;
+    }
+  .soc2{
+        width: 75%;
+    }
+  .forme2{
+        width: 75%;
+    }
+    .links1{
+        width: 75%;
+    }
+  .soc3{
+        width: 75%;
+    }
+} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {
+    .navbar{
+        width: 50%;
+    }
+  .container{
+        width: 50%;
+    }
+  .navbar1{
+        width: 50%;
+    }
+  .home{
+        width: 50%;
+    }
+  .content1{
+        width: 50%;
+    }
+  .content-img{
+        width: 50%;
+    }
+  .section2{
+        width: 50%;
+    }
+  .con{
+        width: 50%;
+    }
+  .imgs{
+        width: 50%;
+    }
+  .imgs1{
+        width: 50%;
+    }
+  .section3{
+        width: 50%;
+    }
+  .gallery{
+        width: 50%;
+    }
+  .section4{
+        width: 50%;
+    }
+  .content4{
+        width: 50%;
+    }
+  .iframe{
+        width: 50%;
+    }
+  .boxs{
+        width: 50%;
+    }
+  .box1{
+        width: 50%;
+    }
+  .inputs{
+        width: 50%;
+    }
+  form{
+        width: 50%;
+    }
+  .footer{
+        width: 50%;
+    }
+  .social{
+        width: 50%;
+    }
+  .soc1{
+        width: 50%;
+    }
+  .social1{
+        width: 50%;
+    }
+  .soc2{
+        width: 50%;
+    }
+  .forme2{
+        width: 50%;
+    }
+    .links1{
+        width: 50%;
+    }
+  .soc3{
+        width: 50%;
+    }
+} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {
+    .navbar{
+        width: 25%;
+    }
+  .container{
+        width:25%;
+    }
+  .navbar1{
+        width:25%;
+    }
+  .home{
+        width:25%;
+    }
+  .content1{
+        width:25%;
+    }
+  .content-img{
+        width:25%;
+    }
+  .section2{
+        width:25%;
+    }
+  .con{
+        width:25%;
+    }
+  .imgs{
+        width:25%;
+    }
+  .imgs1{
+        width:25%;
+    }
+  .section3{
+        width:25%;
+    }
+  .gallery{
+        width:25%;
+    }
+  .section4{
+        width:25%;
+    }
+  .content4{
+        width:25%;
+    }
+  .iframe{
+        width:25%;
+    }
+  .boxs{
+        width:25%;
+    }
+  .box1{
+        width:25%;
+    }
+  .inputs{
+        width:25%;
+    }
+  form{
+        width:25%;
+    }
+  .footer{
+        width:25%;
+    }
+  .social{
+        width:25%;
+    }
+  .soc1{
+        width:25%;
+    }
+  .social1{
+        width:25%;
+    }
+  .soc2{
+        width:25%;
+    }
+  .forme2{
+        width:25%;
+    }
+    .links1{
+        width:25%;
+    }
+  .soc3{
+        width:25%;
+    }
+}  */
